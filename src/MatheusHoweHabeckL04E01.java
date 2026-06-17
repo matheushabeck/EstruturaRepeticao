@@ -7,7 +7,7 @@ public class MatheusHoweHabeckL04E01 {
         System.out.print("Digite um número inteiro positivo: ");
         int quantidade = scanner.nextInt();
 
-        for (int i = 0; i < quantidade; i++) {
+        for (int i= 0; i< quantidade; i++) {
             System.out.println("Bom dia");
         }
     }
